@@ -1,0 +1,8 @@
+# Ignorar archivos JSON data de CV
+*.json
+
+# No ignorar .json base
+!cv_data.json
+
+# Ignorar archivos PDF de los datos de CV
+*.pdf

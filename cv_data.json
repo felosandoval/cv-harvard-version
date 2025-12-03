@@ -1,0 +1,114 @@
+{
+  "español": {
+    "principal": {
+      "nombre": "",
+      "titulo": "",
+      "ubicacion": "",
+      "contacto": {
+        "correo": "",
+        "telefono": "",
+        "linkedin": "",
+        "github": ""
+      }
+    },
+    "perfil_profesional": "",
+    "educacion": [
+      {
+        "institucion": "",
+        "periodo": "",
+        "detalle": ""
+      }
+    ],
+    "experiencia_laboral": [
+      {
+        "empresa": "",
+        "cargo": "",
+        "periodo": "",
+        "logros": [
+          ""
+        ]
+      }
+    ],
+    "certificaciones": [
+      {
+        "institucion": "",
+        "certificacion": "",
+        "link": "",
+        "anio": ""
+      }
+    ],
+    "habilidades": {
+      "tecnicas": [
+        ""
+      ],
+      "idiomas": [
+        {
+          "idioma": "",
+          "nivel": ""
+        }
+      ]
+    },
+    "informacion_adicional": {
+      "nacionalidad": "",
+      "fecha_nacimiento": "",
+      "rut": "",
+      "licencia_conducir": ""
+    }
+  },
+  "inglés": {
+    "principal": {
+      "name": "",
+      "degree": "",
+      "location": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "github": ""
+      }
+    },
+    "professional_summary": "",
+    "education": [
+      {
+        "institution": "",
+        "period": "",
+        "detail": ""
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "",
+        "role": "",
+        "period": "",
+        "achievements": [
+          ""
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "organization": "",
+        "certification": "",
+        "link": "",
+        "year": ""
+      }
+    ],
+    "skills": {
+      "technical": [
+        ""
+      ],
+      "languages": [
+        {
+          "language": "",
+          "level": ""
+        }
+      ]
+    },
+    "additional_information": {
+      "nationality": "",
+      "date_of_birth": "",
+      "id": "",
+      "driver_license": ""
+    }
+  }
+}
